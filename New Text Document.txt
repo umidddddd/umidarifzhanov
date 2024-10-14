@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Awesome Web Page</title>
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Awesome Web Page</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>About This Page</h2>
+            <p>This page showcases some great features of HTML, including semantic tags, lists, images, and external links.</p>
+        </section>
+
+        <section>
+            <h2>My Favorite Fruits</h2>
+            <ul>
+                <li>Apple</li>
+                <li>Banana</li>
+                <li>Cherry</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Images of Fruits</h2>
+            <img src="https://via.placeholder.com/150?text=Apple" alt="Image of an Apple">
+            <img src="https://via.placeholder.com/150?text=Banana" alt="Image of a Banana">
+            <img src="https://via.placeholder.com/150?text=Cherry" alt="Image of a Cherry">
+        </section>
+
+        <footer>
+            <p>Learn more about fruits <a href="https://www.wikipedia.org/wiki/Fruit" target="_blank">here</a>.</p>
+        </footer>
+    </main>
+
+</body>
+</html>
